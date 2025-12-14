@@ -1,5 +1,6 @@
-def myfun(x,y):
-    if x < y:
+def myfun(a,b):
+    if b < a:
         print("a")
     else:
         print("b")
+
