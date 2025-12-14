@@ -1,4 +1,4 @@
 def myfun(a,b):
-    if a < b:
+    while a < b:
         print("a")
 
